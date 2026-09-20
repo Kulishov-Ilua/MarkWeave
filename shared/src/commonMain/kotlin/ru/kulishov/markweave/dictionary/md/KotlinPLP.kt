@@ -107,6 +107,6 @@ object KotlinPLP{
         "Char" to 505,
         "Byte" to 506,
         "Short" to 507,
-        "String" to 508
+        "String" to 508,
     )
 }
